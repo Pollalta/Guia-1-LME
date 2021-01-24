@@ -1,0 +1,45 @@
+﻿
+.barra1{
+    background-color:black;
+    width:80% ;
+}
+li{
+    display:  inline-block;
+    background-color:black;
+    
+    
+}
+ul{
+    
+    list-style: none;
+    width:80% ;
+    background-color:black;
+    height: 25px;
+    text-align: center;
+     
+     
+}
+li a{
+    text-decoration: none;
+    padding: 3px 25px;
+    color: white;
+    text-align: center;
+    font-size: 1.5em;
+    background-color:black;
+    width:80% ;
+    
+}
+a:hover{
+    background-color: white;
+    color: black;
+    
+}
+nav{
+    position: fixed;
+    top:0px;
+    background-color:black;
+    margin-left:auto;
+    margin-right:auto; 
+    width:80% ;
+    
+}

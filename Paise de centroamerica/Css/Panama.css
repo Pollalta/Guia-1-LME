@@ -1,0 +1,97 @@
+*{
+    background-color:#c7ecee;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 7px;
+    margin-right: 5px;
+    
+}
+body{
+    margin-left: 2;
+    margin-right: 2;
+}
+header{
+    text-align: center;
+    font-size: 1.5em;
+    color:#2f3542;
+    font-weight: bold;
+    padding-top:50px; 
+}
+nav ul li{
+    font-size: 1.1em;
+    color:#ff4757;
+    text-decoration: none;
+    
+}
+p{
+    font-size: 1.2em;
+    line-height: 1.1em;
+    text-align: justify;
+    
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+   color: #2f3542;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: aliceblue;
+    
+}
+h2{
+    text-align: center;
+    font-size: 1.5em;
+
+}
+ ul{
+    font-size: 1.1em;
+}
+#cap{
+    text-align: center;
+   
+}
+#sim{
+    text-align: center;
+}
+#mapa{
+   
+    text-align: center;
+}
+ li{
+    font-size: 1.1em;
+    line-height: 1.2em;
+}
+img{
+    margin-top: 10px;
+    margin-bottom: 7px;
+}
+ol{
+    color: #2f3542;
+    display: inline-block;
+    margin-left: 0%;
+    
+    font-size: 1.15em;
+    line-height: 1em;
+    
+}
+#departamentos{
+    display: inline-block;
+    
+    text-align: right;    
+}
+footer  {
+    text-align: center;   
+    text-decoration: none;
+    word-spacing: 0.2em;
+           
+   }
+   #Inicio {
+        
+    margin-left: 1.2em;
+    color:whitesmoke;
+    font-size: 1.15em;
+   background: #2f3542;
+   font-size: 1.2em;
+   text-transform:uppercase; 
+   
+}
